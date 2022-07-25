@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sidaoui Mohamed Amine</h1>
-<h3 align="left">Welcome to my github account!</h3>
+<h2 align="left">Welcome to my github account!</h2>
 <hr/>
 <h5 align="center">Description</h5>
-<h3 align="left">Skills</h3>
+<h2 align="left">Skills and technologys</h2>
 <hr/>
 <h3 align="left">Programming languages:</h3>
 <p align="left"> 
