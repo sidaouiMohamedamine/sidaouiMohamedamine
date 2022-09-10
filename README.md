@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidaoui Mohamed Amine</h1>
 <h2 align="left">Welcome to my github account!</h2>
-<h3 align="center"></h3>
+<h3 align="center">Software engineering student at the Private Higher School Of Engineering And Technology (ESPRIT)</h3>
 <h2 align="left">Skills and technologys</h2>
 <h3 align="left">Programming languages:</h3>
 <p align="left"> 
