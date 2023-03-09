@@ -63,5 +63,5 @@
 </p>
 <h3 align"left">Github stats</h3>
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidouiMohamedamine&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" />
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul3737&show_icons=true&locale=en&layout=compact" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=tokyonight" />
