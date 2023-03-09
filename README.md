@@ -64,6 +64,5 @@
 <h3 align"left">Github stats</h3>
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
-                         username=sidaouiMohamedamine&show_icons=true&locale=en&layout=compact&count_private=true&theme=cobalt"/>
+                         username=sidaouiMohamedamine&show_icons=true&locale=en&layout=compact&count_private=true&theme=highcontrast"/>
  
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme-dracula" />
