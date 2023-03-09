@@ -63,4 +63,4 @@
 </p>
 <h3 align"left">Github stats</h3>
 <p>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=onedark" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=tokyonight" />
