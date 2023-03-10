@@ -66,7 +66,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 <h3 align"left">Github Stats</h3>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidaouimohamedamine&" alt="sidaouimohamedamine" /></p>
+ <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidaouimohamedamine&" alt="sidaouimohamedamine&theme=tokyonight" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidaouiMohamedamine&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp
 <<img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=tokyonight" />
