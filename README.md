@@ -67,6 +67,9 @@
 </p>
 <h3 align"left">Github Stats</h3>
  <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidaouimohamedamine&" alt="sidaouimohamedamineshow_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
+ <p align="left">
+ &emsp;&emsp;&emsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidaouiMohamedamine&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-&emsp;&emsp;&emsp
+&emsp;&emsp;&emsp;
 <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=tokyonight" />
+ </p>
