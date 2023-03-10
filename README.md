@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidaoui Mohamed Amine</h1>
 <h2 align="left">Welcome to my github account!</h2>
 <p align="center">Software engineering student at the Private Higher School Of Engineering And Technology (ESPRIT)</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sidaouimohamedamine&label=Profile%20views&color=0e75b6&style=flat" alt="sidaouimohamedamine" /> </p>
 <h2 align="left">Skills and technologys</h2>
 <h3 align="left">Programming languages:</h3>
 <p align="left"> 
