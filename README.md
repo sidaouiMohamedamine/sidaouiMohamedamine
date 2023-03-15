@@ -73,7 +73,7 @@
 &emsp;
 <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=tokyonight" />
  </p>
-<h3 align="left">Social account :</h3>
+<h3 align="left">Social accounts :</h3>
 <p align="left">
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
