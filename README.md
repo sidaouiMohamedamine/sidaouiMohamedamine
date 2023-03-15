@@ -74,4 +74,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=tokyonight" />
  </p>
 <h3 align"left">Links</h3>
-<a href="https://www.linkedin.com/in/mohamed-amine-sidaoui-447445186/" class="btn btn-primary">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mohamed-amine-sidaoui-447445186/" class="button">LinkedIn</a>
