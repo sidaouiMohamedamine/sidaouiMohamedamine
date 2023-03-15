@@ -77,7 +77,13 @@
 <p align="left">
 <a href="https://dev.to/https://sidaouimohamedamine.github.io/protfolio_sidaouimohamedamine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://sidaouimohamedamine.github.io/protfolio_sidaouimohamedamine/" height="30" width="40" /></a>
  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-amine-sidaoui-447445186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-amine-sidaoui-447445186/" height="30" width="40" /></a>
-</p>
+<button style="background-color: #0077B5;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;">
+  LinkedIn
+</button>
 
