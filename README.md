@@ -74,8 +74,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sidaouiMohamedamine&show_icons=true&theme-gotham&count_private=true&theme=tokyonight" />
  </p>
 <h3 align="left">Social account :</h3>
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <p align="left">
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://www.linkedin.com/in/mohamed-amine-sidaoui-447445186/">
 <img src="https://camo.githubusercontent.com/10fcc3fc61bbf146537c4f6f5a59a340bd9d030a583f74cce7123bb1faba08b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
  </a>
@@ -83,3 +83,4 @@
  <a href="https://sidaouimohamedamine.github.io/Protfolio_SidaouiMohamedAmine/">
  <img src="https://camo.githubusercontent.com/852b2b85399123c75fd487d693dd98720016c0e27a9f586e0fa84baa21120ae4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d795f706f7274666f6c696f2d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465" alt="portfolio" data-canonical-src="https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" style="max-width: 100%;">
  </a>
+ </p>
