@@ -2,7 +2,7 @@
 <h2 align="left">🚀Welcome to my github account!</h2>
 <p align="center">Software engineering student at the Private Higher School Of Engineering And Technology (ESPRIT)</p>
 <h2 align="left">🛠️Skills and technologys</h2>
-&emsp<h3 align="left">Programming languages:</h3>
+&emsp;<h3 align="left">Programming languages:</h3>
 <p align="left"> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  <a  href="https://www.java.com" target="_blank" rel="noreferrer" class="java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
