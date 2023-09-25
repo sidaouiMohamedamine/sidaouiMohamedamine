@@ -80,7 +80,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  &emsp;&emsp;&emsp;&emsp;&emsp;
 </p>
-&emsp;<h3 align"left">Github Stats</h3>
+&emsp;<h3 align"left">📈Github Stats</h3>
  <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidaouimohamedamine&alt=sidaouimohamedamineshow_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
  <p align="left">
  &emsp;&emsp;&emsp;
