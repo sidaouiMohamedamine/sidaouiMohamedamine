@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidaoui Mohamed Amine</h1>
 <h2 align="left">🚀Welcome to my github account!</h2>
-<p align="center">Software engineering student at the Private Higher School Of Engineering And Technology (ESPRIT)</p>
+<p align="center">Software Engineer specialized in Full Stack Java development and DevOps, with expertise in backend, frontend, and continuous integration. Passionate about creating innovative solutions and constantly striving to enhance my technical skills.</p>
 <h2 align="left">🛠️Skills and technologys</h2>
 &emsp;<h3 align="left">Programming languages:</h3>
 <p align="left"> 
