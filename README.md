@@ -40,6 +40,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
  &emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ &emsp;&emsp;&emsp;&emsp;&emsp;
+
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 </p>
 &emsp;<h3 align="left">DevOps</h3>
